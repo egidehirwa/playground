@@ -5,3 +5,4 @@ This is a space where l share projects l create to train as a software developer
 ### JS Projects
 
 - [Random Quote Generator](https://egidehirwa.github.io/playground/js/random-quote-generator/index.html)
+- [Tic Tac Toe Game](https://egidehirwa.github.io/playground/js/tic-tac-toe/index.html)
