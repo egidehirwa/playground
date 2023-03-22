@@ -37,10 +37,26 @@ h1 {
 }
 
 a {
-  color: var(--action);
+  color: var(--dark);
+  background-color: var(--secondary);
+  text-decoration: none;
+  transition: all 0.3;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+a:hover {
+  color: white;
+  background-color: var(--primary);
 }
 
 .js-projects {
   margin-top: 40px;
   text-align: center;
+}
+
+.js-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 20px;
 }
